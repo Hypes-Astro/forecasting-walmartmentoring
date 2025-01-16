@@ -1,1 +1,2 @@
-mode/best_model.h5
+src/model/best_model.h5
+src/virtualenv
